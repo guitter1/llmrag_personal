@@ -1,0 +1,1 @@
+2024년 노벨 물리학상은 인공 신경망을 이용한 머신러닝의 토대를 개발한 존 홉필드(John Hopfield)와 제프리 힌턴(Geoffrey Hinton)에게 수여되었습니다. 노벨 화학상은 단백질 구조 예측에 기여한 데이비드 베이커(David Baker)와 AI 모델을 개발한 딥마인드의 데미스 허사비스(Demis Hassabis) 및 존 점퍼(John Jumper)에게 수여되었습니다.
